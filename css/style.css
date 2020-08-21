@@ -1,0 +1,161 @@
+.counter {
+	padding: 50px 40px;
+	background: linear-gradient(to right, #ee0979, #ff6a00);
+	background-size: cover;
+	color: white;
+	font: normal 12px 'Open Sans', sans-serif;
+	margin-top: 5px;
+	background-repeat: no-repeat;
+	text-align: center;
+	padding: 30px 30px;
+
+}
+.container img {
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+  height: 120px;
+  width: 120px;
+}
+.col-md-9 {
+	margin-left: 250px;
+	margin-right: 250px;
+}
+.icon-center{
+	text-align: center !important;
+	padding: 15px 15px;
+	color: #39FF14;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+}
+.social-icons {
+	text-align: center;
+	margin: 10px 10px;
+}
+.features-icons{
+	text-align: center;
+	font-size: 700;
+}
+
+.features-icons p {
+	text-align: center;
+	font-size: 13px;
+	margin-bottom: 50px;
+}
+.img-section{
+	border-bottom: 0.5px solid #eeecc0;
+	padding-top: 20px 20px;
+}
+.col-md-4{
+	margin-top: 45px;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+.col-md-6:not(:last-child){
+                border-right:1px solid  #eeecc0;
+                vertical-align:middle;
+                display: table-cell;
+}
+.contact-form{
+	max-width: 600px;
+	margin: auto;
+	padding: 0px 10px;
+	overflow: hidden;
+	align-items: center;
+}
+.contact-form-text{
+	display: block;
+	box-sizing: border-box;
+	margin: 16px 0;
+	border: 0;
+	background: #111;
+	padding: 20px 40px;
+	outline: none;
+	color: #ddd;
+	transition: 0.5s;
+}
+.contact-form-text:focus{
+	box-shadow: 0 0 10px 4px;
+}
+textarea.contact-form-text{
+ 	resize: none;
+ }
+.contact-form-btn{
+	float: right;
+	border: 0;
+	background: #34495e;
+	color: #fff;
+	padding: 12px 50px;
+	border-color: 20px;
+	cursor: pointer;
+	transition: 0.5s;
+	width: 100%;
+}
+.contact-form-btn:hover{
+	background: #2980b9;
+}
+textarea.contact-form-text{
+ 	resize: none;
+ 	height: 120px;
+}
+.contact-section{
+	padding: 80px 0px;
+	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%),
+	url("file:///E:/counterclock/images/bg-signup.jpg");
+}
+
+
+.growing-section{
+	margin-left: 150px;
+	margin-right: 150px;
+}
+.rear-img{
+	padding-top: 40px;
+	margin-bottom: 0px;
+}
+.social-icons {
+	color: #39FF14;
+}
+.lorem{
+	font-size: 12px;
+	color: gray;
+	margin-bottom: 50px;
+}
+.ipsum{
+	font-size: 17px;
+	color: #39FF14;
+	font-family: 'Oswald', sans-serif;
+}
+
+.search-result{
+	background-color: #39FF14;
+}
+.features-section{
+	padding-left: 200px;
+	padding-right: 200px;
+	border-bottom: 1px solid #eeecc0;
+}
+ul#example {
+	list-style: none;
+	margin: 50px 0;
+	padding: 0;
+	display: block;
+	text-align: center;
+}
+ul#example li {
+	display: inline-block;
+}
+ul#example li span {
+	font-size: 80px;
+	font-weight: 300;
+	line-height: 80px;
+}
+ul#example li.seperator {
+	font-size: 80px;
+	line-height: 70px;
+	vertical-align: top;
+}
+ul#example li p {
+	color: #a7abb1;
+	font-size: 25px;
+}
